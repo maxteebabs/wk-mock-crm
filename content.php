@@ -41,5 +41,4 @@
         echo "frsjo";
         echo "rvrko";
         echo "otvwy";
-        echo "awoms";
 ?>
