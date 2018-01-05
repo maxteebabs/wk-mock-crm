@@ -60,5 +60,4 @@
         echo "xjlxw";
         echo "coqbg";
         echo "nillq";
-        echo "ubaws";
 ?>
