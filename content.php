@@ -61,5 +61,4 @@
         echo "coqbg";
         echo "nillq";
         echo "ubaws";
-        echo "ikbdt";
 ?>
