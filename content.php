@@ -66,5 +66,4 @@
         echo "bopal";
         echo "cusqi";
         echo "ytxwd";
-        echo "pumwk";
 ?>
