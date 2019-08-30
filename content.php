@@ -15,5 +15,4 @@
         echo "qprhl";
         echo "fhfix";
         echo "tdqjy";
-        echo "puiui";
 ?>
