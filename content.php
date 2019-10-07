@@ -70,5 +70,5 @@
         echo "vsnic";
         echo "tvdfi";
         echo "wvqaf";
-        echo "stkno";
+        echo "bwcor";
 ?>
