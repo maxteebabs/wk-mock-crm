@@ -28,5 +28,4 @@
         echo "opcov";
         echo "sjbtw";
         echo "wnbjt";
-        echo "npfjx";
 ?>
