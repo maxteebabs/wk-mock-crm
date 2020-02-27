@@ -36,5 +36,4 @@
         echo "fhmgt";
         echo "gqofe";
         echo "txquq";
-        echo "blbqd";
 ?>
