@@ -35,5 +35,4 @@
         echo "jxwpg";
         echo "fhmgt";
         echo "gqofe";
-        echo "jacth";
 ?>
